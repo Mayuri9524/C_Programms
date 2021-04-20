@@ -4,17 +4,6 @@
 
 // Input :15
 // Output : Yes
-
-////////////////////////////////////////////////////////////////////////////
-//
-//  Function name : CheckDivisble
-//  Input : Integer
-//  Output : Boolean (True / False)
-//  Description : It is used to check whetheer number is divisible by 3 and 5
-//  Date : 01/03/2021
-//  Author : Piyush Manohar Khairnar
-//
-////////////////////////////////////////////////////////////////////////////
 # include<stdio.h>
 #include<stdbool.h>
 bool CheckDivisible(int iNo)
