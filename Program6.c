@@ -4,19 +4,6 @@
 
 // Input :7
 // Output : Its odd
-
-
-
-////////////////////////////////////////////////////////////////////////////
-//
-//  Function name : CheckEven
-//  Input : Integer
-//  Output : Boolean (True / False)
-//  Description : It is used to check whetheer number is even or odd
-//  Date : 01/03/2021
-//  Author : Piyush Manohar Khairnar
-//
-////////////////////////////////////////////////////////////////////////////
 # include<stdio.h>
 #include<stdbool.h>
 bool CheckEven(int iNo)
