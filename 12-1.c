@@ -1,3 +1,10 @@
+/*A B C D
+A B C D
+A B C D
+A B C D
+*/
+
+
 #include<stdio.h>
 void Pattern(int iRow, int iCol)
 {
